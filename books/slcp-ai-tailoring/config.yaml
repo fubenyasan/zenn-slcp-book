@@ -1,0 +1,26 @@
+title: 共通フレームのAI協業開発のテーラリング
+summary: 共通フレーム2013（SLCP）を物差しに、生成AIと協働するソフトウェア開発の設計を、一つの実践の実測から組み立てた方法論。
+topics:
+  - ai
+  - llm
+  - ソフトウェア開発
+  - slcp
+published: false
+price: 0
+chapters:
+  - 00-preface
+  - 01-introduction
+  - 02-scope-and-method
+  - 03-tailoring-overview
+  - 04-layered-architecture
+  - 05-process-zones
+  - 06-prerequisite-skills
+  - 07-target-skills
+  - 08-lifecycle-extension
+  - 09-enabling-process
+  - 10-evaluation-and-measurement
+  - 11-limitations
+  - 12-conclusion
+  - 13-appendix1-uml
+  - 14-appendix2-skills
+  - 15-references
