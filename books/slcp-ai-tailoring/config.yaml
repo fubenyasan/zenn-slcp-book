@@ -1,11 +1,11 @@
-title: 共通フレームのAI協働開発のテーラリング
+title: システムライフサイクル共通フレームのAI協働テーラリング
 summary: 共通フレーム2013（SLCP）を物差しに、生成AIと協働するソフトウェア開発の設計を、一つの実践の実測から組み立てた方法論。
 topics:
   - ai
   - llm
   - システムライフサイクル管理
   - slcp
-published: false
+published: true
 price: 0
 chapters:
   - 00-preface
